@@ -5,6 +5,8 @@ export default {
     extend: {
       fontFamily: {
         krona: ["Krona One", "sans-serif"],
+        limelight : ["Limelight", "cursive"],
+        licorice : ["Licorice", "cursive"],
       },
     },
   },
