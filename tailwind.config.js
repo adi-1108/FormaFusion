@@ -5,8 +5,12 @@ export default {
     extend: {
       fontFamily: {
         krona: ["Krona One", "sans-serif"],
-        limelight : ["Limelight", "cursive"],
-        licorice : ["Licorice", "cursive"],
+        limelight: ["Limelight", "cursive"],
+        licorice: ["Licorice", "cursive"],
+      },
+      colors: {
+        mainYellow: "#D5FF01",
+        background: "#1F1F2B",
       },
     },
   },
